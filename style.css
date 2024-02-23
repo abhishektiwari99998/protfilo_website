@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar{
+   background-image: url("photo5.avif");
+   height: 350px;
+   width: 100%;
+   color: white;
+   display: flex;
+   /* font-size: 0.95rem; */
+}
+
+.nav-icon {
+    display: flex;
+    /* margin-left: 500px; */
+}
+
+.HOME {
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 500px;
+}
+
+.about{
+    
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 30px;
+
+}
+
+.servics {
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 50px;
+}
+
+.skills{
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 30px;
+}
+.exp{
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 30px;
+}
+.con{
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 30px;
+}
+
+.icon{
+    align-items: center;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    height: 20px;
+    width: 20px;
+    display: flex;
+}
+.sfa-brand{
+    align-items: center;
+    font-size: 1.2rem;
+    margin-left: 20px;
+}
+.fa-brands {
+    align-items: center;
+    font-size: 3.2rem;
+    margin-left: 20px;
+}
+
+.fa-solid{
+    align-items: center;
+    font-size: 3.2rem;
+    margin-left: 20px;
+}
+
+
+.nav-logo{
+    height: 70px;
+    width: 120px;
+    margin-left: -80px;
+}
+
+.logo{
+    background-image: url("1701094077777.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: -80px;
+}
+
+.name{
+    color: white;
+}
+
+.name1{
+    margin-top: 120px;
+    margin-left: -1100px;
+}
+.name2{
+    font-size: 2rem;
+    color: red;
+}
+.name3{
+    font-size: 1.5rem;
+    color: aqua;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+
+.name4 {
+    margin-top: 20px;
+    margin-left: 170px;
+    color: rgb(83, 16, 190);
+    font-size: 1.5rem;
+}
+.name5{
+    margin-top: 12px;
+    margin-left: 70px;
+}
+
+/* skilss section */
+.skills1{
+    background-color: black;
+    height: 500px;
+    color: white;
+}
+
+.skills2{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.skills3{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+
+
+.skills4{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 640px;
+}
+.skills5{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 1080px;
+}
+.skills6{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 1080px;
+}
+.skills7{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 680px;
+}
+.skills8{
+    font-size: 2rem;
+    height: 60PX;
+    width: 40PX;
+    margin: 30px;
+    display: flex;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 280px;
+}
+
+.skills9{
+    color: gold;
+    margin-top: 60px;
+    margin-left: 270px;
+}
+
+.skills10{
+    color: gold;
+    margin-top: -180px;
+    margin-left: 670px;
+}
+
+.skills11{
+    color: gold;
+    margin-top: -180px;
+    margin-left: 1070px;
+}
+
+
+.skills12{
+    color: gold;
+    margin-top: -10px;
+    margin-left: 1070px;
+}
+
+
+.skills13{
+    color: gold;
+    margin-top: -160px;
+    margin-left: 670px;
+}
+
+
+.skills14{
+    color: gold;
+    margin-top: -160px;
+    margin-left: 270px;
+}
+
+/* project section */
+.project1{
+    margin-top: 1px;
+    background-color: black;
+    color: white;
+    height: 650px;
+}
+
+.project2{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.project3{
+    font-size: 2rem;
+    margin-top: 50px;
+    margin-left: 110px;
+    color: gold;
+}
+
+.project4{
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 150px;
+    color: aqua;
+}
+
+
+.project5{
+    font-size: 2rem;
+    margin-top: 50px;
+    margin-left: 110px;
+    color: gold;
+}
+
+.project6{
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 150px;
+    color: aqua;
+}
+
+.project7{
+    font-size: 2rem;
+    margin-top: 50px;
+    margin-left: 110px;
+    color: gold;
+}
+
+.project8{
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 150px;
+    color: aqua;
+}
+
+.project9{
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 850px;
+}
+
+
+.project10{
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 850px;
+
+}
+
+/* contect section */
+.content1{
+    background-color: black;
+    margin-top: 2px;
+    height: 500px;
+    color: white;
+}
+
+.contact2{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.contact3{
+    font-size: 1.5rem;
+    color: gold;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.contact4{
+    font-size: 1.5rem;
+    color: aqua;
+    margin-left: 100px;
+    margin-top: -50px;
+    margin-left: 180px;
+
+}
+.contact5{
+    font-size: 3rem;
+    color: gold;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.contact6{
+    font-size: 1.5rem;
+    color: aqua;
+    margin-top: -50px;
+    margin-left: 200px;
+
+}
+.contact7{
+    font-size: 1.5rem;
+    color: gold;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.contact8{
+    font-size: 1.5rem;
+    color: aqua;
+    margin-left: 200px;
+    margin-top: -50px;
+
+}
+
+.contact9{
+    font-size: 1.5rem;
+    color: gold;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.contact10{
+    font-size: 1.5rem;
+    color: aqua;
+    margin-left: 200px;
+    margin-top: -50px;
+
+}
